@@ -1,32 +1,24 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.build
+.cache
+.tmp
+.old
+*.autosave
+*.png
+*.r20*
+*.asv
+docs/latex
+lib/controlModel/controlModel_ert_rtw
+lib/controlModel/slprj
+lib/*/examples
+lib/*/extras
+lib/*/docs
+lib/*/.github
+lib/*/.git
+lib/*/*.html
+lib/*/.gitignore
+lib/*/*.yml
+lib/*/CMakeLists.txt
+hardware/*backups*
+hardware/*bak*
+hardware/*cache*
+docs/html

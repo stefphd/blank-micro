@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "SBBMicro",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/tools/teensy/avr/cores/teensy4/**",
+                "${workspaceFolder}/lib/**"
+            ]
+        }
+    ],
+    "version": 4
+}
