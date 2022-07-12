@@ -11,11 +11,11 @@ No other dependecies are necessary: all used libraries are already included in `
 
 Additional utilities (only recommended):
 
-* *teensyduino*: not stricktly necessary for compilation b/c core code for teensy MCU is already included in `./hardware/`
+* *teensyduino*: not stricktly necessary for compilation b/c core code for teensy MCU is already included in `./tools/`
 * *Visual Studio Code* with *C/C++* extension for code completation
 * *make* to build using the `Makefile`
 * *Doxygen* to generate the documentation
-* *KiCad* to open the schematic files in `./kicad`
+* *KiCad* to open the schematic files
 
 See the installation guide for the pre-requisites for details.
 
